@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+
+}
+.carousel-item{
+    width: 100%;
+    height: auto;
+}
+
+.about_img{
+    width: 80%;
+    height: 100px;
+}
